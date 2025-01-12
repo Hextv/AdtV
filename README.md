@@ -10,9 +10,9 @@ Feel free to use, modify, and distribute this code as you see fit. No further de
 
 ## FAQ
 
-### What does AdtV aim for?
+### What was the intended purpose of AdtV?
 
-AdtV aims to simplify the workflow for developers by enabling them to directly view Blizzard's ADT (Area Data Tables) files without the need for manual conversion to OBJ format. This allows for a more efficient and streamlined process for examining and analyzing game level data.
+AdtV was an experimental project that aimed to simplify the workflow for developers by enabling them to directly view Blizzard's ADT (Area Data Tables) files without the need for manual conversion to OBJ format. This would have allowed for a more efficient and streamlined process for examining and analyzing game level data.
 
 
 ### Is the source code well documented?
