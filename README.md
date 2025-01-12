@@ -4,9 +4,9 @@
 AdtV is a program designed to directly view Blizzard's ADT (Area Data Tables) files without the need for any conversion.
 
 # Status
-AdtV is an open-source project under development, built with Python using the PyOpenGL library. The project is currently under heavy development and may not be suitable for general use. We are actively seeking contributions from the community to help us further improve this project.
+AdtV is an abandoned project that was built with Python using the PyOpenGL library. It may not be suitable for general use in its current state.
 
-
+Feel free to use, modify, and distribute this code as you see fit. No further development or support will be provided.
 
 ## FAQ
 
